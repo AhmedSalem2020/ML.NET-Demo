@@ -7,6 +7,7 @@ using System;
 
 namespace myApp
 {
+    // My First ML.Net Demo App
     class Program
     {
         // STEP 1: Define your data structures
