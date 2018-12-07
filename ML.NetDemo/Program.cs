@@ -7,6 +7,7 @@ using System;
 
 namespace myApp
 {
+    // Review myself
     // My First ML.Net Demo App
     class Program
     {
