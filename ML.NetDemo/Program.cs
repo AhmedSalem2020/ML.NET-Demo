@@ -7,7 +7,7 @@ using System;
 
 namespace myApp
 {
-    // Remove 2 classes which are not useful
+    
     // My First ML.Net Demo App
     class Program
     {
