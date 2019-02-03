@@ -50,7 +50,7 @@ namespace myApp
 
             // If working in Visual Studio, make sure the 'Copy to Output Directory' 
             // property of iris-data.txt is set to 'Copy always'
-            string dataPath = "iris-data.txt";
+            string dataPath = "iris-data.txt"; 
             pipeline.Add(new TextLoader(dataPath).CreateFrom<IrisData>(separator: ','));
 
             // STEP 3: Transform your data
